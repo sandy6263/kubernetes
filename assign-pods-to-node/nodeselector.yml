@@ -16,3 +16,4 @@ spec:
         - containerPort: 8089
   nodeSelector:
     memoryOptimised: yes
+sandy rocks
